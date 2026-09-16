@@ -1,4 +1,4 @@
-## Hi there 👋
+![Fun Animated GIF](https://raw.githubusercontent.com/vonschnakenburg/vonschnakenburg/output/github-contribution-grid-snake-dark.svg)
 
 <!--
 **vonschnakenburg/vonschnakenburg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
